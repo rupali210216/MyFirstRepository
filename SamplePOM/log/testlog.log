@@ -1,0 +1,87 @@
+2018-12-17 17:56:49,790 - common.BrowserCommands -INFO - Chrome Driver has launched Successfully!
+2018-12-17 17:56:55,193 - common.BrowserCommands -INFO - URL: https://gmail.com has launched Successfully!
+2018-12-17 17:56:55,742 - common.BrowserCommands -INFO - Element : [[ChromeDriver: chrome on XP (13c70e8ff4fbdda0d4c5fd44b0092587)] -> id: identifierId] filled by an input: hi@gmail.com Successfully!
+2018-12-17 17:56:55,943 - common.BrowserCommands -INFO - Element: [[ChromeDriver: chrome on XP (13c70e8ff4fbdda0d4c5fd44b0092587)] -> xpath: //*[text()='Next']] got clicked Successfully!
+2018-12-17 17:57:02,076 - common.BrowserCommands -ERROR - Element : Proxy element for: DefaultElementLocator 'By.id: //*[@name='password']' is unable to find or unable to fill by input: 123456
+no such element: Unable to locate element: {"method":"id","selector":"//*[@name='password']"}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-T8LR42R', ip: '192.168.1.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50225}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 13c70e8ff4fbdda0d4c5fd44b0092587
+*** Element info: {Using=id, value=//*[@name='password']}
+2018-12-17 17:57:02,478 - common.BrowserCommands -ERROR - Unable to perform Click operation on Element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id=\"passwordNext\"]/content/span'
+invalid selector: Unable to locate an element with the xpath expression //*[@id=\"passwordNext\"]/content/span because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"passwordNext\"]/content/span' is not a valid XPath expression.
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-T8LR42R', ip: '192.168.1.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50225}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 13c70e8ff4fbdda0d4c5fd44b0092587
+*** Element info: {Using=xpath, value=//*[@id=\"passwordNext\"]/content/span}
+2018-12-17 18:08:58,062 - common.BrowserCommands -INFO - Chrome Driver has launched Successfully!
+2018-12-17 18:09:01,968 - common.BrowserCommands -INFO - URL: https://gmail.com has launched Successfully!
+2018-12-17 18:09:02,429 - common.BrowserCommands -INFO - Element : [[ChromeDriver: chrome on XP (8c62ff3c1a9442d78b31db6a396f5a9a)] -> id: identifierId] filled by an input: suganaarohi@gmail.com Successfully!
+2018-12-17 18:09:02,605 - common.BrowserCommands -INFO - Element: [[ChromeDriver: chrome on XP (8c62ff3c1a9442d78b31db6a396f5a9a)] -> xpath: //*[text()='Next']] got clicked Successfully!
+2018-12-17 18:09:08,673 - common.BrowserCommands -ERROR - Element : Proxy element for: DefaultElementLocator 'By.id: //*[@name='password']' is unable to find or unable to fill by input: 123456
+no such element: Unable to locate element: {"method":"id","selector":"//*[@name='password']"}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-T8LR42R', ip: '192.168.1.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50298}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 8c62ff3c1a9442d78b31db6a396f5a9a
+*** Element info: {Using=id, value=//*[@name='password']}
+2018-12-17 18:09:09,067 - common.BrowserCommands -ERROR - Unable to perform Click operation on Element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id=\"passwordNext\"]/content/span'
+invalid selector: Unable to locate an element with the xpath expression //*[@id=\"passwordNext\"]/content/span because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"passwordNext\"]/content/span' is not a valid XPath expression.
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-T8LR42R', ip: '192.168.1.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50298}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 8c62ff3c1a9442d78b31db6a396f5a9a
+*** Element info: {Using=xpath, value=//*[@id=\"passwordNext\"]/content/span}
+2018-12-17 18:12:03,270 - common.BrowserCommands -INFO - Chrome Driver has launched Successfully!
+2018-12-17 18:12:08,067 - common.BrowserCommands -INFO - URL: https://gmail.com has launched Successfully!
+2018-12-17 18:12:09,185 - common.BrowserCommands -INFO - Element : [[ChromeDriver: chrome on XP (626c5267bbeac9faa01d0617547c4f81)] -> id: identifierId] filled by an input: suganaarohi@gmail.com Successfully!
+2018-12-17 18:12:09,354 - common.BrowserCommands -INFO - Element: [[ChromeDriver: chrome on XP (626c5267bbeac9faa01d0617547c4f81)] -> xpath: //*[text()='Next']] got clicked Successfully!
+2018-12-17 18:12:15,404 - common.BrowserCommands -ERROR - Element : Proxy element for: DefaultElementLocator 'By.id: //*[@name='password']' is unable to find or unable to fill by input: 123456
+no such element: Unable to locate element: {"method":"id","selector":"//*[@name='password']"}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-T8LR42R', ip: '192.168.1.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50333}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 626c5267bbeac9faa01d0617547c4f81
+*** Element info: {Using=id, value=//*[@name='password']}
+2018-12-17 18:12:15,775 - common.BrowserCommands -ERROR - Unable to perform Click operation on Element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id=\"passwordNext\"]/content/span'
+invalid selector: Unable to locate an element with the xpath expression //*[@id=\"passwordNext\"]/content/span because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"passwordNext\"]/content/span' is not a valid XPath expression.
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-T8LR42R', ip: '192.168.1.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\User\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50333}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 626c5267bbeac9faa01d0617547c4f81
+*** Element info: {Using=xpath, value=//*[@id=\"passwordNext\"]/content/span}
